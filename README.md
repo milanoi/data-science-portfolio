@@ -50,6 +50,8 @@ Feedforward, convolutional & recurrent neural networks, multi-layer perceptron
 Tries, named-entity recognition, sentiment analysis, text summarization, topic modelling
 
 
+
+
 **Bayesian Inference (using Python, R)**
 
 Using Bayes Theorem to calculate the conjugate prior, likelihood, and posterior distributions over some hyperparameter.
@@ -78,6 +80,8 @@ Selecting appropriate test statistics
 Calculating confidence intervals
 
 
+
+
 **Computational Modeling (using Python)**
 
 Building computer programs that simulate real-life events and draw conclusions
@@ -101,6 +105,8 @@ Markov Chain Monte Carlo (MCMC)
 Metropolis-Hastings algorithm
 Gradient Descent
 Page Rank
+
+
 
 
 **Econometrics (using Stata, R)**
